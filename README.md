@@ -1,8 +1,7 @@
 # rpi_bluetooth_access_ssid
-
 v1.1  
-A way to send ssid from end user to pi wpa_supplicant.conf through bluetooth  
 
+**A way to send ssid from end user to pi wpa_supplicant.conf through bluetooth**  
 packages need to be installed:  
 pip3 install dbus-python  
 pip3 install bluezero  
